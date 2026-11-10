@@ -1,0 +1,14 @@
+.woff
+@font-face {
+    font-family: 'Roslindale';
+    src: url('https://github.com/Sergey545cp/Fonts/raw/refs/heads/main/RoslindaleCyrillic-DisplayCondensed%202.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SFProText';
+    src: url('https://github.com/Sergey545cp/Fonts/raw/refs/heads/main/SFProText-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
